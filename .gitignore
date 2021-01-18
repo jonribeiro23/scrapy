@@ -4,3 +4,4 @@ venv/
 __pycache__/
 *.pyc
 projects/selenium_basics/chromedriver.exe
+projects/livecoin/chromedriver.exe
